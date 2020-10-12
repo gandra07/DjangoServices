@@ -11,10 +11,6 @@
       <change afterPath="$PROJECT_DIR$/../Django/tasks/templates/tasks/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Django/tasks/templates/tasks/layout.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Django/tasks/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DjangoServices/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app1/app1/pr1_views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ser2/urls.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Python/.idea/Python.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../springBoot-project/.idea/springBoot-project.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../springBoot-project/README.md" afterDir="false" />
@@ -186,7 +182,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ser2/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="394">
@@ -198,11 +194,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ser2/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+            <state relative-caret-position="87">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -229,7 +225,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -240,9 +236,9 @@
         <option value="$PROJECT_DIR$/app1/app1/urls.py" />
         <option value="$PROJECT_DIR$/ser1/views.py" />
         <option value="$PROJECT_DIR$/ser2/migrations/urls.py" />
-        <option value="$PROJECT_DIR$/ser2/views.py" />
         <option value="$PROJECT_DIR$/DjangoServices/urls.py" />
         <option value="$PROJECT_DIR$/ser2/urls.py" />
+        <option value="$PROJECT_DIR$/ser2/views.py" />
       </list>
     </option>
   </component>
@@ -348,25 +344,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602535894993</updated>
-      <workItem from="1602535896418" duration="3114000" />
+      <workItem from="1602535896418" duration="3376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3114000" />
+    <option name="totallyTimeSpent" value="3376000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-61" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" weight="0.32910052" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32910052" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32910052" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -441,16 +436,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ser2/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DjangoServices/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="367">
@@ -467,6 +452,16 @@
           <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
           <folding>
             <element signature="e#638#670#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ser2/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
